@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm 🅿ranjalⓂ</h1>
-<h3 align="center">Mern Stack Developer, Tech Enthusiast and a good human being</h3>
+<h3 align="center">Mern Stack Developer, Tech Enthusiast and a Good Human</h3>
 
 - 🔭 I’m currently working on **Python: Data Science**
 
