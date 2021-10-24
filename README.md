@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I'm Genius😜**
 
-<h3 align="center"><b>My Contributions</b></h3>
+<h3 align="left"><b>My Contributions</b></h3>
 - <a href="https://skyline.github.com/pranjalm-23/2021" target="blank">2021</a>
 - <a href="https://skyline.github.com/pranjalm-23/2020" target="blank">2020</a>
 
