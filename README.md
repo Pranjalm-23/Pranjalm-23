@@ -12,6 +12,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pranjalm-23/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/pranjal.mishra.731135/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/06-facebook-256.png" height="30" width="40" /></a>
 </p>
