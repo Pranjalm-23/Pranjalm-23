@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I'm Genius😜**
 
-<h1 align="center" color="orange"><a href = "https://drive.google.com/file/d/141I2U0Z1KkjZCPv47hQKMHkVOuSlpLgt/view?usp=drivesdk">Click to view my Resume</a></h1>
+<h1 align="center" color="orange"><a href = "https://drive.google.com/file/d/141I2U0Z1KkjZCPv47hQKMHkVOuSlpLgt/view?usp=drivesdk">My Resume</a></h1>
 
 <h3 align="center">**Connect with me:**</h3>
 <p align="center">
