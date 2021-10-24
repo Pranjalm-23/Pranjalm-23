@@ -10,6 +10,7 @@
 - ⚡ Fun fact: **I'm Genius😜**
 
 <h3 align="left"><b>My Contributions</b></h3>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalm-23&show_icons=true&locale=en" alt="pranjalm-23" /></p>
 
 - <a href="https://skyline.github.com/pranjalm-23/2021" target="blank">2021</a>
 
