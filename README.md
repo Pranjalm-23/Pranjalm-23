@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact: **I'm Genius😜**
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center" color="orange"><a href = "https://github.com/sreelakshmig009/Resume-G-Sreelakshmi/blob/main/Resume-G%20Sreelakshmi.pdf">Click to view my Resume</a></h1>
+
+<h3 align="center">**Connect with me:**</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pranjalm-23/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-256.png" height="50" width="50" alt="https://www.linkedin.com/in/pranjalm-23/" /></a>
 <a href="https://www.quora.com/profile/Pranjal-Mishra-403" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-256.png" height="50" width="50" alt="https://www.quora.com/profile/Pranjal-Mishra-403" /></a>
