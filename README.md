@@ -21,8 +21,6 @@
 - <a href="https://skyline.github.com/pranjalm-23/2020" target="blank">2020</a>
 
 
-<h1 align="center" color="orange"><a href = "https://drive.google.com/file/d/141I2U0Z1KkjZCPv47hQKMHkVOuSlpLgt/view?usp=drivesdk">My Resume</a></h1>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pranjalm-23/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-256.png" height="50" width="50" alt="https://www.linkedin.com/in/pranjalm-23/" /></a>
