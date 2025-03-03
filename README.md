@@ -1,4 +1,4 @@
-<h1 align="center">Software, AI & Finance</h1>
+<h1 align="center">Software & AI</h1>
 <h3 align="center"><b>Summary</b></h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalm-23&layout=compact&theme=highcontrast" alt="pranjalm-23" /></p>
